@@ -4,8 +4,8 @@
 #include "DHT.h"
 
 // Wifi
-const char *ssid = "MiFibra-AB58";
-const char *password = "HwUVPD9K";
+const char *ssid = "MiFibra-8A95";
+const char *password = "7KL2HDpj";
 WiFiServer server(80);
 String header;
 
